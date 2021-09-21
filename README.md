@@ -1,6 +1,6 @@
 # Scroll
 The natural scroll direction for an external mouse is different than that of a trackpad.
-Changing this setting everytime I used a mouse made the process tedious, so I wrote this script that reverses the scroll direction almost instantly.
+Changing this setting everytime I used a mouse made the process tedious, so I wrote this script that reverses the scroll direction using a keyboard shortcut.
 
 To use the script as a keyboard shortcut, add it as a script in automator or if saved as an application, run the app in automator using a keyboard shortcut. 
 
